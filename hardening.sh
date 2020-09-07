@@ -1,14 +1,9 @@
 #!/bin/bash
 
 
-#Description: Centos7-Hardening
-#Author: Samuel
-#Date: 09/2020
-
-
-#CIS - CentOS 7 Benchmark (v2.1.1) - Updated by Serge
-#Copyright (c) 2020, Ross Hamilton. All rights reserved.
-#Licenced under the BSD Licence See LICENCE file for details
+#Description: CISC-Centos7-Hardening
+#Author: Samuel. B
+#Date: 07/2020
 
 
 ########################################################################
